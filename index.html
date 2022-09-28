@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="style.css" />
+      <link
+         rel="stylesheet"
+         href="https://fonts.googleapis.com/css?family=Speimen|Libre|Franklin"
+      />
+      <title>Document</title>
+   </head>
+   <body>
+      <main class="container">
+         <div class="wrap">
+            <div class="logo">
+               <img src="/images/logo.svg" alt="#" />
+            </div>
+         </div>
+
+         <h2>We are launching <span class="text">soon!</span></h2>
+         <p>Suscribe and get notified</p>
+
+         <input
+            type="text"
+            name="email"
+            id="email"
+            placeholder="Your email address..."
+         />
+         <p id="error"></p>
+
+         <button type="button" onclick="errorMessage()" class="submit">
+            <a href="#">Notify me</a>
+         </button>
+
+         <picture>
+            <img src="/images/illustration-dashboard.png" alt="dashboard" />
+         </picture>
+         <div></div>
+      </main>
+
+      <script src="/ping.js"></script>
+   </body>
+</html>
