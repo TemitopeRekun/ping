@@ -74,5 +74,5 @@ I will continue to work on Javascript form validation using conditional statemen
 
 
 - Frontend Mentor - [@Kim-Tem](https://www.frontendmentor.io/profile/Kim-Tem)
-- Twitter - [@sireTemi](https://www.twitter.com/sireTemi)
+- Twitter - [@_sireTemi](https://www.twitter.com/_sireTemi)
 
